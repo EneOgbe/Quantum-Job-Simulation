@@ -1,59 +1,21 @@
-# Recommendations and Business Insights
+## Recommendation
 
-## Summary of Insights
-The analysis of transaction and customer data indicates that total sales are
-not driven by higher spend per transaction or by differences in packet size.
-Instead, sales performance is primarily influenced by transaction frequency
-across customer segments.
+The analysis indicates that chip sales are primarily driven by purchase
+frequency rather than spend per transaction, with Mainstream customers
+contributing the largest share of total revenue. Older Singles/Couples represent
+a core, high-value segment with stable purchasing behaviour and should remain a
+priority for revenue protection through consistent product availability.
 
-Average spend per transaction remains highly consistent across all lifestages,
-and packet size preferences show minimal variation, suggesting similar
-purchasing behaviour regardless of customer demographics.
+Sales also display clear seasonality, with a strong uplift in the lead-up to
+December and a dip in February. Aligning promotional activity with these
+seasonal patterns presents an opportunity to maximise sales impact.
 
----
+While Young Singles/Couples contribute less total revenue than older segments,
+they demonstrate stronger brand preferences and greater responsiveness to
+brand-led strategies. Targeted promotions focused on preferred brands can be
+used to drive incremental growth within this segment.
 
-## Key Sales Drivers
-- **Transaction frequency** is the primary driver of total sales.
-- High-performing segments generate revenue through repeat purchasing rather
-  than higher transaction values.
-- Product size and spend per visit are not strong differentiators between
-  customer segments.
-
----
-
-## Target Customer Segments
-Based on total sales and transaction volume, the following segments should be
-prioritised:
-- **Older Families**
-- **Young Singles/Couples**
-- **Retirees**
-
-These segments consistently contribute higher sales volumes due to frequent
-purchasing behaviour.
-
----
-
-## Strategic Recommendations
-1. **Focus on Repeat Purchases**
-   - Implement promotions and offers that encourage frequent visits rather
-     than higher spend per transaction.
-   - Leverage loyalty programs to reward repeat purchasing behaviour.
-
-2. **Target High-Frequency Segments**
-   - Tailor marketing campaigns toward high-volume segments such as Older
-     Families and Young Singles/Couples.
-   - Use targeted messaging to reinforce habitual purchasing.
-
-3. **Maintain Consistent Product Offering**
-   - Since packet size preferences are consistent across segments, there is no
-     strong evidence to support segment-specific pack size strategies.
-   - Focus instead on availability, visibility, and promotion of existing
-     products.
-
----
-
-## Conclusion
-By aligning marketing and promotional strategies with observed customer
-behaviour, particularly transaction frequency, the business can maximise
-sales performance. Targeting high-frequency customer segments with
-repeat-purchase incentives is likely to deliver the greatest impact.
+Trial analysis supports a selective rollout of successful trial strategies,
+particularly in stores similar to trial stores 77 and 88. By combining targeted
+trial rollouts, brand-led engagement strategies, and protection of core revenue
+segments, the business can support sustainable growth over the next six months.
