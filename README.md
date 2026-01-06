@@ -3,12 +3,27 @@
 
 ## Project Overview
 This project forms part of the Quantium Virtual Job Simulation on Forage.  
-The objective of the analysis is to examine transaction and customer data to
-identify key drivers of sales, understand customer purchasing behaviour, and
-provide data-driven recommendations to support business decision-making.
+The objective of the analysis is:
 
-The analysis focuses on data quality checks, customer segmentation, sales
-drivers, and actionable insights for stakeholder reporting.
+Understand Sales Drivers
+Identify whether chip sales are driven by purchase frequency, spend per transaction, product characteristics, or seasonality.
+
+Analyse Customer Segments
+Examine customer behaviour across lifestage and premium segments to determine which groups contribute most to total sales and where growth opportunities exist.
+
+Identify Brand Preferences
+Assess brand-level purchasing behaviour to understand which brands resonate most strongly with key customer segments and how this can inform targeted promotional strategies.
+
+Evaluate Seasonality Effects
+Analyse sales trends over time to identify seasonal patterns and inform the timing of future marketing and promotional activity.
+
+Assess Trial Effectiveness
+Compare trial stores against matched control stores to determine whether in-store trials resulted in sustained sales uplift beyond normal store behaviour.
+
+Support Strategic Decision-Making
+Translate analytical findings into clear, actionable recommendations that balance revenue protection with opportunities for incremental growth.
+
+
 
 ---
 
